@@ -1,0 +1,13 @@
+{
+  "messageParam" : "message",
+  "postIdParam" : "post_id",
+  "itemIdParam" : "item_id",
+  "attachmentsParam" : "attachments",
+  "typeParam" : "type",
+  "hashParam" : "hash",
+  "serverParam" : "server",
+  "photoParam" : "photo",
+  "ownerIdParam": "owner_id",
+  "accessTokenParam": "access_token",
+  "apiVersionParam": "v"
+}

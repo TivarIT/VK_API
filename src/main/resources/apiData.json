@@ -1,0 +1,14 @@
+{
+  "wallPost" : "wall.post",
+  "wallEdit" : "wall.edit",
+  "responsePostIdKey": "response.post_id",
+  "responseIdKey": "response.id",
+  "responseUploadUrlKey": "response.upload_url",
+  "responseLikeKey": "response.liked",
+  "wallPhotoUploadServer": "photos.getWallUploadServer",
+  "typePhotoKey": "photo",
+  "saveWallPhoto": "photos.saveWallPhoto",
+  "createComment": "wall.createComment",
+  "isLiked": "likes.isLiked",
+  "deletePost": "wall.delete"
+}

@@ -1,0 +1,11 @@
+{
+  "baseUrl": "https://vk.com/",
+  "baseApiUrl": "https://api.vk.com/method/",
+  "userId": "627657327",
+  "vkApiVersion": "5.131",
+  "photoPath": "src/main/resources/image.jpg",
+  "actualPhotoPath": "src/main/resources/actualImage.jpg",
+  "liked": 1,
+  "randomStrLength": 10,
+  "postTypeValue": "post"
+}
